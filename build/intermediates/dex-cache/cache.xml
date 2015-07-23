@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/classes-342415cbb14251108c7bcd5be92a68d5d3669f93.jar" />
+    </item>
+    <item
+        jar="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/exploded-aar/bookendsadapter1/bookends/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c5a90dd4eb7946aad8907fe58a4d2ff30a73f13c">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/classes-35782cc1c21989de054ebda16b2367e3b67008c4.jar" />
+    </item>
+    <item
+        jar="/Users/mst/android_sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-3416cfaa9e7b499e592708572040d40a8d08940f.jar" />
+    </item>
+    <item
+        jar="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/classes-f19fc22b3f375eb26d4c0ea0b5f727d9034d5f93.jar" />
+    </item>
+    <item
+        jar="/Users/mst/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-a10563f08ef3d954b3e9b4394ddfe582ad38084c.jar" />
+    </item>
+    <item
+        jar="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-5c1ebab97b29ae408547957b2f52b246b5afc981.jar" />
+    </item>
+    <item
+        jar="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="/Users/mst/AndroidStudioProjects/bookendsadapter1/app/build/intermediates/pre-dexed/debug/classes-d4f4a5f93b1b94228fdfcd10c4eadfde6b38f92d.jar" />
+    </item>
+
+</items>
